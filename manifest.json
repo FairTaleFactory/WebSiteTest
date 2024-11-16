@@ -1,6 +1,6 @@
 {
-    "name": "web_site",
-    "short_name": "web_site",
+    "name": "doctorapp",
+    "short_name": "doctorapp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
